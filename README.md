@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Atualmente estudo Pyhton para Back end(server side),<br>tenho uma boa base de Front end e meu foco e full stack<br> <br><br>Sobre mim<br>🌱 Atualmente estou completando minha jornada Pyhton para Back end(server side),<br>   tenho familiariedade com Front end, tendo certificaçoes em HTML,CSS E JS<br><br>💻 Interessado em desenvolvimento backend e embarcados<br><br>🎯 Objetivo: Acrescentar em projetos e soluçoes para o dia a dia com tecnologia </p>
+<p align="left">Atualmente estudo Pyhton e JAVA para Back end(server side),<br>tenho uma boa base de Front end e meu foco e full stack<br> <br><br>Sobre mim<br>🌱 Atualmente estou completando minha jornada Pyhton para Back end(server side),<br>   tenho familiariedade com Front end, tendo certificaçoes em HTML,CSS E JS<br><br>💻 Interessado em desenvolvimento backend e embarcados<br><br>🎯 Objetivo: Acrescentar em projetos e soluçoes para o dia a dia com tecnologia </p>
 
 ###
 
